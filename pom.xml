@@ -316,7 +316,7 @@
 		<dependency>
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-mapper-asl</artifactId>
-			<version>1.5.2</version>
+			<version>1.9.13</version>
 		</dependency>
 		<dependency>
 			<groupId>org.quartz-scheduler</groupId>
@@ -393,7 +393,7 @@
 				<version>3.0</version>
 				<configuration>
 					<compilerArguments>
-						<Xlint />
+						<Xlint/>
 					</compilerArguments>
 					<verbose>true</verbose>
 					<source>${java.version}</source>
